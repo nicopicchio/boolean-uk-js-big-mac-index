@@ -40,7 +40,7 @@ const BMIndexComparisonCH = (BMIndexCHpercent > BMIndexUSpercent);
 const BMIndexComparisonJAP = (BMIndexJAPpercent > BMIndexUSpercent);
 const BMIndexComparisonEUR = (BMIndexEURpercent > BMIndexUSpercent);
 
-//Logged results  variables
+//Logged variables results
 console.log(BMIndexUSpercent);
 console.log(BMIndexGBpercent);
 console.log(BMIndexCHpercent);
